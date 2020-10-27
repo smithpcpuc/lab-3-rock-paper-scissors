@@ -1,11 +1,11 @@
 Rock Paper Scissors
 ===================================
-![Assignment Checks](https://s///github.com/Leach-IT3049C/3-rock-paper-scissors-smithpcpuc/workflows/Assignment%20Checks/badge.svg)
+![Assignment Checks](https://s///github.com/smithpcpuc/lab-3-rock-paper-scissors/workflows/Assignment%20Checks/badge.svg)
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/Material/Assignments/3.Rock_Paper_Scissors/).
 
 ## Checklist:
-- [] update the assignment checks above to the correct link. - Done Automatically
+- [x] update the assignment checks above to the correct link. - Done Automatically
 - [X] make sure the assignment checks pass
 - [X] fill out the self evaluation and Reflection
 - [X] submit the repository link on Canvas
